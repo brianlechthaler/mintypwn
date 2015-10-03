@@ -1,7 +1,8 @@
 //sends the key shortcut for forcequit on Mac OS X. (command+option+shift+escape)
 //to defuse the attack without unplugging the teensy, press the tiny pushbutton on the board
 void setup() {
-
+delay(5000);
+//wait 5s before doing anything
 }
 
 void loop() {
